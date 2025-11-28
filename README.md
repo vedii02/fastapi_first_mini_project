@@ -1,1 +1,1 @@
-# fastapi_first_mini_project
+Its my first fastapi project
